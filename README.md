@@ -24,4 +24,4 @@ Small dataset URL
 http://files.grouplens.org/datasets/movielens/ml-latest.zip
 
 Summary: The GroupLens MovieLens dataset contains movie ratings and user reviews collected from the MovieLens website. It includes information such as user ratings, movie titles, genres, timestamps, and demographic data. This dataset serves as a valuable resource for training and evaluating recommendation systems.
-![image](https://github.com/Amrapali03/Movie-Recommendation-Engine/assets/114306627/347a366c-c34b-4443-98dd-27d2b9633eb9)
+
